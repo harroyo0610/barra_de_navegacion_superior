@@ -1,0 +1,43 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+nav{
+  background-color: #828282;
+}
+
+nav ul{
+  margin: 0px auto;
+  padding: 0px;
+}
+nav ul li {
+  display: inline;
+}
+nav ul li a{
+  margin: 0px auto;
+  list-style-type: none;
+  text-decoration: none;
+  float: left;
+  width: 12em;
+  text-align: center;
+  padding: 1em 0em 1em 0;
+  color: #FFFFFF;
+}
+nav ul li a:hover{
+  background-color: black;
+}
+.footer{
+  background-color: #e8e8e8;
+  margin:  20px 0;
+  padding: 20px 0;
+  text-align: center;
+}
